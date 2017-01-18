@@ -4,7 +4,7 @@ This is a coding challenge for prospective mobile developer applicants applying 
 
 ## Goal:
 
-#### Develop simple 500px client app that allows to see and interact with grid of currently popular photos
+#### Develop a simple app that allows viewing and interacting with a grid of currently popular 500px photos
 
 - [ ] Fork this repo. Keep it public until we have been able to review it.
 - [ ] Android: _Java_ | iOS: _Swift 3_
@@ -16,8 +16,8 @@ This is a coding challenge for prospective mobile developer applicants applying 
 - [ ] When user swipes on a photo in full screen, preserve it's location on the grid, so when she dismisses the full screen, grid of photos should contain the last photo she saw.
 
 ### Evaluation:
-- [ ] App operates as asked
+- [ ] App operates as intended
 - [ ] No crashes, bugs, compiler warnings
 - [ ] Conforms to SOLID principles
-- [ ] Code is communicative
+- [ ] Code is easily understood and communicative
 - [ ] Commit history is consistent, easy to follow and understand
